@@ -1,0 +1,14 @@
+4 - para el esquema general
+5 - Euler
+6 - RK4
+7 - Trapecio
+10.5 - Lorenz
+12 - BZ
+14 - Milne
+16  
+17 - Euler Trapecio
+18 - AB4 AM3
+19 - Milne Simpson
+21 - RKF
+22,23
+20 - Adaptativo 2 pasos
